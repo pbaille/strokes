@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.gfredericks/debug-repl:0.0.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gfredericks/debug-repl/0.0.7/debug-repl-0.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
